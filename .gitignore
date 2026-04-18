@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# OSfiles
+.DS_Store
+
+# Logs
+*.log
+
